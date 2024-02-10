@@ -12,7 +12,7 @@ public void draw()
 }
 public void mousePressed()
 {
-  background(255,255,255);
+  
 }
 public void sierpinski(int x, int y, int len)
 {
